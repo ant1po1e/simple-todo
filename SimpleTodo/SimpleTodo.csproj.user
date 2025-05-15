@@ -7,6 +7,9 @@
     <Compile Update="AddNewCard.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="AddNewProfileCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="AddTodoForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -15,6 +18,9 @@
     </Compile>
     <Compile Update="CustomControl\ScrollableFlowPanel.cs">
       <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ProfileCard.cs">
+      <SubType>UserControl</SubType>
     </Compile>
   </ItemGroup>
 </Project>

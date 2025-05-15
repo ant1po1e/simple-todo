@@ -54,6 +54,7 @@
             txtTitle.BorderStyle = BorderStyle.FixedSingle;
             txtTitle.Font = new Font("Verdana", 12F);
             txtTitle.Location = new Point(43, 30);
+            txtTitle.MaxLength = 15;
             txtTitle.Name = "txtTitle";
             txtTitle.PlaceholderText = "Title";
             txtTitle.Size = new Size(426, 32);
@@ -64,6 +65,7 @@
             txtDesc.BorderStyle = BorderStyle.FixedSingle;
             txtDesc.Font = new Font("Verdana", 12F);
             txtDesc.Location = new Point(43, 78);
+            txtDesc.MaxLength = 57;
             txtDesc.Multiline = true;
             txtDesc.Name = "txtDesc";
             txtDesc.PlaceholderText = "Description";

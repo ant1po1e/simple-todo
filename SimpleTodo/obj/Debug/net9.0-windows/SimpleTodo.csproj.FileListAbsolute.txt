@@ -67,3 +67,6 @@ C:\Users\lenovo\source\repos\SimpleTodo\SimpleTodo\obj\Debug\net9.0-windows\Simp
 C:\Users\lenovo\source\repos\SimpleTodo\SimpleTodo\obj\Debug\net9.0-windows\ref\SimpleTodo.dll
 C:\Users\lenovo\source\repos\SimpleTodo\SimpleTodo\obj\Debug\net9.0-windows\SimpleTodo.Properties.Resources.resources
 C:\Users\lenovo\source\repos\SimpleTodo\SimpleTodo\obj\Debug\net9.0-windows\SimpleTodo.Form1.resources
+C:\Users\lenovo\source\repos\SimpleTodo\SimpleTodo\obj\Debug\net9.0-windows\SimpleTodo.sourcelink.json
+C:\Users\lenovo\source\repos\SimpleTodo\SimpleTodo\obj\Debug\net9.0-windows\SimpleTodo.ProfileCard.resources
+C:\Users\lenovo\source\repos\SimpleTodo\SimpleTodo\obj\Debug\net9.0-windows\SimpleTodo.AddNewProfileCard.resources
