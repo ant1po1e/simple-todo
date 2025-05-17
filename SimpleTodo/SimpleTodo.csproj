@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.2" />
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="9.0.5" />
   </ItemGroup>
 
   <ItemGroup>
@@ -17,6 +18,12 @@
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="TodoComponents\EditTodoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WorkspaceComponents\EditProfileForm.cs">
+      <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
 

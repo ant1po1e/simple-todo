@@ -4,22 +4,31 @@
     <_LastSelectedProfileId>C:\Users\lenovo\source\repos\SimpleTodo\SimpleTodo\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Update="AddNewCard.cs">
+    <Compile Update="TodoComponents\AddNewCard.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="AddNewProfileCard.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Update="AddTodoForm.cs">
+    <Compile Update="TodoComponents\AddTodoForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Form1.cs">
+    <Compile Update="TodoComponents\TodoActionMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TodoComponents\TodoCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="WorkspaceComponents\AddNewProfileCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="CustomControl\ScrollableFlowPanel.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Update="ProfileCard.cs">
+    <Compile Update="WorkspaceComponents\AddProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WorkspaceComponents\ProfileCard.cs">
       <SubType>UserControl</SubType>
     </Compile>
   </ItemGroup>
