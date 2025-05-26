@@ -241,9 +241,6 @@ namespace SimpleTodo
 
         private void EditTodo(int id)
         {
-            var confirm = MessageBox.Show("Are you sure you want to edit this todo?", "Confirm Delete", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
-            if (confirm != DialogResult.Yes) return;
-
             using (var conn = new SqliteConnection(connectionString))
             {
                 conn.Open();
@@ -260,6 +257,9 @@ namespace SimpleTodo
                     {
                         if (form.ShowDialog() == DialogResult.OK)
                         {
+                            var confirm = MessageBox.Show("Are you sure you want to edit this todo?", "Confirm Delete", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+                            if (confirm != DialogResult.Yes) return;
+
                             var updateCmd = new SqliteCommand("UPDATE Todos SET Title = @Title, Description = @Desc, DueDate = @Date WHERE Id = @Id", conn);
                             updateCmd.Parameters.AddWithValue("@Title", form.TodoTitle);
                             updateCmd.Parameters.AddWithValue("@Desc", form.TodoDescription);

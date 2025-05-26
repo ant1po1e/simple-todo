@@ -37,6 +37,33 @@ namespace SimpleTodo
             lblDesc.Text = description;
             lblDate.Text = date.ToString("dd/MM/yyyy");
 
+            if (CurrentStatus == "Completed")
+            {
+                this.BackColor = Color.Honeydew;
+            }
+            else
+            {
+                DateTime today = DateTime.Today;
+                int daysRemaining = (date.Date - today).Days;
+
+                if (daysRemaining == 1)
+                {
+                    this.BackColor = Color.LightCyan;
+                }
+                else if (daysRemaining == 0)
+                {
+                    this.BackColor = Color.Wheat;
+                }
+                else if (daysRemaining < 0)
+                {
+                    this.BackColor = Color.LightSalmon;
+                }
+                else
+                {
+                    this.BackColor = Color.White;
+                }
+            }
+
             todoActionMenu1.OnDeleteClicked += () =>
             {
                 todoActionMenu1.Visible = false;

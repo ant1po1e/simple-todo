@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|c:\\users\\lenovo\\source\\repos\\simpletodo\\simpletodo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|solutionrelative:simpletodo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|c:\\users\\lenovo\\source\\repos\\simpletodo\\simpletodo\\todocomponents\\todocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|solutionrelative:simpletodo\\todocomponents\\todocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\simpletodo\\workspacecomponents\\editprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|solutionrelative:simpletodo\\workspacecomponents\\editprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|c:\\users\\lenovo\\source\\repos\\simpletodo\\simpletodo\\todocomponents\\todocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|solutionrelative:simpletodo\\todocomponents\\todocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|c:\\users\\lenovo\\source\\repos\\simpletodo\\simpletodo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|solutionrelative:simpletodo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\simpletodo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|solutionrelative:simpletodo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|c:\\users\\lenovo\\source\\repos\\simpletodo\\simpletodo\\workspacecomponents\\editprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|solutionrelative:simpletodo\\workspacecomponents\\editprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|c:\\users\\lenovo\\source\\repos\\simpletodo\\simpletodo\\todocomponents\\edittodoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|solutionrelative:simpletodo\\todocomponents\\edittodoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|c:\\users\\lenovo\\source\\repos\\simpletodo\\simpletodo\\workspacecomponents\\editprofileform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|solutionrelative:simpletodo\\workspacecomponents\\editprofileform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\simpletodo\\workspacecomponents\\editprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|solutionrelative:simpletodo\\workspacecomponents\\editprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\simpletodo\\todocomponents\\edittodoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|solutionrelative:simpletodo\\todocomponents\\edittodoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|c:\\users\\lenovo\\source\\repos\\simpletodo\\simpletodo\\workspacecomponents\\editprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|solutionrelative:simpletodo\\workspacecomponents\\editprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{647B4F40-6E37-4333-BECB-F0EBFF24A67C}|SimpleTodo\\SimpleTodo.csproj|C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\simpletodo\\workspacecomponents\\addprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -42,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +62,56 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoCard.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\TodoComponents\\TodoCard.cs",
+              "RelativeDocumentMoniker": "SimpleTodo\\TodoComponents\\TodoCard.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\TodoComponents\\TodoCard.cs",
+              "RelativeToolTip": "SimpleTodo\\TodoComponents\\TodoCard.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:30:30.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TodoCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\TodoComponents\\TodoCard.cs",
+              "RelativeDocumentMoniker": "SimpleTodo\\TodoComponents\\TodoCard.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\TodoComponents\\TodoCard.cs [Design]",
+              "RelativeToolTip": "SimpleTodo\\TodoComponents\\TodoCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:30:27.531Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditTodoForm.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\TodoComponents\\EditTodoForm.cs",
+              "RelativeDocumentMoniker": "SimpleTodo\\TodoComponents\\EditTodoForm.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\TodoComponents\\EditTodoForm.cs",
+              "RelativeToolTip": "SimpleTodo\\TodoComponents\\EditTodoForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:27:57.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditTodoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\TodoComponents\\EditTodoForm.cs",
+              "RelativeDocumentMoniker": "SimpleTodo\\TodoComponents\\EditTodoForm.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\TodoComponents\\EditTodoForm.cs [Design]",
+              "RelativeToolTip": "SimpleTodo\\TodoComponents\\EditTodoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:27:53.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EditProfileForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\WorkspaceComponents\\EditProfileForm.cs",
               "RelativeDocumentMoniker": "SimpleTodo\\WorkspaceComponents\\EditProfileForm.cs",
@@ -62,57 +123,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\MainForm.cs",
               "RelativeDocumentMoniker": "SimpleTodo\\MainForm.cs",
               "ToolTip": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\MainForm.cs",
               "RelativeToolTip": "SimpleTodo\\MainForm.cs",
-              "ViewState": "AgIAACsBAAAAAAAAAAASwPMAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAABoBAAAAAAAAAAAAwH8BAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T03:33:18.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\MainForm.cs",
               "RelativeDocumentMoniker": "SimpleTodo\\MainForm.cs",
               "ToolTip": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\MainForm.cs [Design]",
               "RelativeToolTip": "SimpleTodo\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T03:33:10.99Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-17T03:33:10.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "EditProfileForm.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\WorkspaceComponents\\EditProfileForm.cs",
               "RelativeDocumentMoniker": "SimpleTodo\\WorkspaceComponents\\EditProfileForm.cs",
               "ToolTip": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\WorkspaceComponents\\EditProfileForm.cs",
               "RelativeToolTip": "SimpleTodo\\WorkspaceComponents\\EditProfileForm.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAwwBQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T03:29:56.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EditProfileForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\WorkspaceComponents\\EditProfileForm.Designer.cs",
-              "RelativeDocumentMoniker": "SimpleTodo\\WorkspaceComponents\\EditProfileForm.Designer.cs",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\WorkspaceComponents\\EditProfileForm.Designer.cs",
-              "RelativeToolTip": "SimpleTodo\\WorkspaceComponents\\EditProfileForm.Designer.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwFYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T03:29:33.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AddProfileForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\WorkspaceComponents\\AddProfileForm.cs",
               "RelativeDocumentMoniker": "SimpleTodo\\WorkspaceComponents\\AddProfileForm.cs",
@@ -124,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ProfileCard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\WorkspaceComponents\\ProfileCard.cs",
               "RelativeDocumentMoniker": "SimpleTodo\\WorkspaceComponents\\ProfileCard.cs",
@@ -136,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "AddNewProfileCard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\SimpleTodo\\SimpleTodo\\WorkspaceComponents\\AddNewProfileCard.cs",
               "RelativeDocumentMoniker": "SimpleTodo\\WorkspaceComponents\\AddNewProfileCard.cs",
